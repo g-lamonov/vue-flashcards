@@ -1,24 +1,9 @@
-# flashcards
+# Simple vue flashcards
 
-## Project setup
-```
-npm install
-```
+Simple vue flashcards - created using Vue.    
+[Click here](https://g-lamonov.github.io/vue-flashcards/) for a link to the demo.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Screenshot
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demonstration
+![Gif demonstration](https://i.imgur.com/Hqr2B6Y.gif)
